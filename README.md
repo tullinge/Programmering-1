@@ -3,9 +3,10 @@
 I kursen kommer vårt primära språk vara Python och vi kommer använda Visual Studio Code (VS Code). Se [här](https://github.com/tullinge/Programmering-1/blob/master/Inf%C3%B6r%20f%C3%B6rsta%20lektionen.md) för instruktioner.
 
 ## Lärresurser
-[Socratica Python Tutorial Playlist](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+### Youtube
+[Socratica Python Tutorial Playlis](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 
-Mer kommer...
+[Python Programming Beginner Tutorials with Corey Shafer](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 
 ## Preliminär planering
 Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer jag att blanda in vissa "mini-föreläsningar" på olika teman, se nedan.
