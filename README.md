@@ -18,9 +18,9 @@ Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer
 | ------------- | ------------- |
 | 34 | Intro. Hello world! |
 | 35 | Parprogrammering. Komma igång ordentligt. |
-| 36 | Hur felsöker man? Debugging |
+| 36 | Kodstil och kommentarer |
 | 37 | Git och Github |
-| 38 | Kodstil och kommentarer |
+| 38 | Hur felsöker man? Debugging |
 | 39 |  |
 | 40 |  |
 | 41 |  |
