@@ -17,10 +17,10 @@ Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer
 | Vecka  | Fokus |
 | ------------- | ------------- |
 | 34 | Intro. Hello world! |
-| 35 | Parprogrammering. Git. |
-| 36 | Debugging, fel och felsökning |
-| 37 | Kodstil och kommentarer |
-| 38 |  |
+| 35 | Parprogrammering. Komma igång ordentligt. |
+| 36 | Hur felsöker man? Debugging |
+| 37 |  |
+| 38 | Kodstil och kommentarer |
 | 39 |  |
 | 40 |  |
 | 41 |  |
@@ -29,9 +29,9 @@ Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer
 | 44 | HÖSTLOV |
 | 45 | Agil utveckling. Hur jobbar man i ett utvecklingsteam? |
 | 46 |  |
-| 47 | UX |
+| 47 |  |
 | 48 |  |
 | 49 |  |
 | 50 |  |
 | 51 |  |
-(TODO: Fyll på med vårens veckor)
+(TODO: Fyll på med vårens veckor.)
