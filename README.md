@@ -14,24 +14,24 @@ Kolla [här](https://github.com/tullinge/Programmering-1/blob/master/terminal-fo
 ## Preliminär planering
 Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer jag att blanda in vissa "mini-föreläsningar" på olika teman, se nedan.
 
-| Vecka  | Fokus |
-| ------------- | ------------- |
-| 34 | Intro. Hello world! |
-| 35 | Parprogrammering. Komma igång ordentligt. |
-| 36 | Kodstil och kommentarer |
-| 37 | Git och Github |
-| 38 | Hur felsöker man? Debugging |
-| 39 |  |
-| 40 |  |
-| 41 |  |
-| 42 | Problemlösning, pseudokod |
-| 43 |  |
-| 44 | HÖSTLOV |
-| 45 | Agil utveckling. Hur jobbar man i ett utvecklingsteam? |
-| 46 |  |
-| 47 |  |
-| 48 |  |
-| 49 |  |
-| 50 |  |
-| 51 |  |
+| Vecka  | Fokus | Rekommenderade [Socratica-klipp](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) |
+| ------------- | ------------- | ------------- |
+| 34 | Intro. Hello world! | 1-7 |
+| 35 | Parprogrammering. Komma igång ordentligt. | 8-11 |
+| 36 | Kodstil och kommentarer |  |
+| 37 | Git och Github |  |
+| 38 | Hur felsöker man? Debugging |  |
+| 39 |  |  |
+| 40 |  |  |
+| 41 |  |  |
+| 42 | Problemlösning, pseudokod |  |
+| 43 |  |  |
+| 44 | HÖSTLOV |  |
+| 45 | Agil utveckling. Hur jobbar man i ett utvecklingsteam? |  |
+| 46 |  |  |
+| 47 |  |  |
+| 48 |  |  |
+| 49 |  |  |
+| 50 |  |  |
+| 51 |  |  |
 (TODO: Fyll på med vårens veckor.)
