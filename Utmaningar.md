@@ -16,6 +16,7 @@
 ## Level 2 - Hello Turtle!
 * `help`
 * `dir`
+* `for-loop`
 
 Nu ska ni få börja rita ut något på skärmen, med hjälp av en sköldpadda! Högst upp i varje fil behöver ni importera en modul som ger ert program nya superkrafter. Därefter behöver ni skapa en ny sköldpadda, se nedan.
 ```
@@ -32,5 +33,9 @@ input()
 Det sista `input` ligger bara där för att programmet ska stanna upp (så att inte fönstret ska försvinna).
 
 - [ ] Skriv av ovanstående kodexempel och verifiera att det fungerar
-- [ ] Utforska metoderna `forward`, `left`, `right` och rita något intressant
-- [ ] ..
+- [ ] Experimentera med metoderna `forward`, `left`, `right`. Rita vad du vill!
+- [ ] Rita en kvadrat
+- [ ] Importera turtle-modulen i REPL:n. Skapa en ny turtle. Använd `dir` och `help` för att utforska vad den har för metoder. Kan du byta färg på kvadraten ovan?
+- [ ] Fortsätt experimentera. Kan du göra en mjuk sväng? En cirkel? En stjärna?
+
+
