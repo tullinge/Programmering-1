@@ -19,24 +19,24 @@ Kolla [här](https://github.com/tullinge/Programmering-1/blob/master/terminal-fo
 ## Preliminär planering
 Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer jag att blanda in vissa "mini-föreläsningar" på olika teman, se nedan.
 
-| Vecka  | Fokus | Rekommenderade [Socratica-klipp](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) |
-| ------------- | ------------- | ------------- |
-| 34 | Intro. Hello world! | 1-7 |
-| 35 | Komma igång ordentligt. | 8-11 |
-| 36 | Kodstil och kommentarer |  |
-| 37 |  |  |
-| 38 | Hur felsöker man? Debugging |  |
-| 39 |  |  |
-| 40 |  |  |
-| 41 |  |  |
-| 42 | Problemlösning, pseudokod |  |
-| 43 |  |  |
-| 44 | HÖSTLOV |  |
-| 45 | Git och Github |  |
-| 46 | Agil utveckling. Hur jobbar man i ett utvecklingsteam? Parprogrammering |  |
-| 47 |  |  |
-| 48 |  |  |
-| 49 |  |  |
-| 50 |  |  |
-| 51 |  |  |
+| Vecka  | Fokus |
+| ------------- | ------------- |
+| 34 | Hello world! |
+| 35 | Grunder |
+| 36 | Grunder |
+| 37 | Grunder. Förhör? Mini-prov? |
+| 38 | Kodstil och kommentarer |
+| 39 | Hur felsöker man? Debugging |
+| 40 |  |
+| 41 | Versionshantering. Git och Github |
+| 42 |  |
+| 43 | Parprogrammering på riktigt |
+| 44 | HÖSTLOV |
+| 45 | Agil utveckling. Tickets. Trello. UX. |
+| 46 |  |
+| 47 |  |
+| 48 |  |
+| 49 | Problemlösning, pseudokod |
+| 50 |  |
+| 51 |  |
 (TODO: Fyll på med vårens veckor.)
