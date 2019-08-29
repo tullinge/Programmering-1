@@ -22,10 +22,10 @@ Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer
 | Vecka  | Fokus | Övrigt |
 | ------------- | ------------- | ------------- |
 | 34 | Hello world! | |
-| 35 | Grunder | |
-| 36 | Grunder | **Läxförhör** |
-| 37 | Grunder | |
-| 38 | Kodstil och kommentarer | |
+| 35 | Grunder i Python | |
+| 36 | Grunder i Python | **Läxförhör** |
+| 37 | Grunder i Python | |
+| 38 | Grunder i Python. Kodstil och kommentering | |
 | 39 | Hur felsöker man? Debugging | |
 | 40 | | **Läxförhör** |
 | 41 | Versionshantering. Git och Github | |
