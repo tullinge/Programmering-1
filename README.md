@@ -39,4 +39,5 @@ Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer
 | 49 | | **Prel. Prov** |
 | 50 |  | |
 | 51 |  | |
+
 (TODO: Fyll på med vårens veckor.)
