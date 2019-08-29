@@ -19,24 +19,24 @@ Kolla [här](https://github.com/tullinge/Programmering-1/blob/master/terminal-fo
 ## Preliminär planering
 Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer jag att blanda in vissa "mini-föreläsningar" på olika teman, se nedan.
 
-| Vecka  | Fokus |
-| ------------- | ------------- |
-| 34 | Hello world! |
-| 35 | Grunder |
-| 36 | Grunder |
-| 37 | Grunder. Förhör? Mini-prov? |
-| 38 | Kodstil och kommentarer |
-| 39 | Hur felsöker man? Debugging |
-| 40 |  |
-| 41 | Versionshantering. Git och Github |
-| 42 |  |
-| 43 | Parprogrammering på riktigt |
-| 44 | HÖSTLOV |
-| 45 | Agil utveckling. Tickets. Trello. UX. |
-| 46 |  |
-| 47 |  |
-| 48 |  |
-| 49 | Problemlösning, pseudokod |
-| 50 |  |
-| 51 |  |
+| Vecka  | Fokus | Övrigt |
+| ------------- | ------------- | ------------- |
+| 34 | Hello world! | |
+| 35 | Grunder | |
+| 36 | Grunder | **Läxförhör** |
+| 37 | Grunder | |
+| 38 | Kodstil och kommentarer | |
+| 39 | Hur felsöker man? Debugging | |
+| 40 | | **Läxförhör** |
+| 41 | Versionshantering. Git och Github | |
+| 42 | | **Prel. Prov** |
+| 43 | Parprogrammering på riktigt | |
+| 44 | HÖSTLOV | |
+| 45 | Agil utveckling. UX. | |
+| 46 | Tickets. Trello. | |
+| 47 | Problemlösning, pseudokod | |
+| 48 |  | |
+| 49 | | **Prel. Prov** |
+| 50 |  | |
+| 51 |  | |
 (TODO: Fyll på med vårens veckor.)
