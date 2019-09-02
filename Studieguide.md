@@ -10,7 +10,7 @@ Jag kan skapa enkla python-script i Visual Studio Code och vet även hur jag ska
 
 - [ ] **Jag kan ovanstående**
 - [ ] **Jag har gjort [Quiz 1](http://programarcadegames.com/quiz/quiz.php?file=python_as_calculator) och får alla rätt.**
-- [ ] **Jag har gjort [Quiz 3](http://programarcadegames.com/quiz/quiz.php?file=python_as_calculator) och får alla rätt.**
+- [ ] **Jag har gjort [Quiz 3](http://programarcadegames.com/quiz/quiz.php?lang=sv&file=if_statements) och får alla rätt.**
 
 ## Nivå 2 - Använda loopar och moduler
 * [Chapter 4: Guessing Games with Random Numbers and Loops](http://programarcadegames.com/index.php?chapter=conditional_statements)
