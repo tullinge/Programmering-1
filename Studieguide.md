@@ -13,7 +13,7 @@ Jag kan skapa enkla python-script i Visual Studio Code och vet även hur jag ska
 - [ ] **Jag har gjort [Quiz 3](http://programarcadegames.com/quiz/quiz.php?lang=sv&file=if_statements) och får alla rätt.**
 
 ## Nivå 2 - Använda loopar och moduler
-* [Chapter 4: Guessing Games with Random Numbers and Loops](http://programarcadegames.com/index.php?chapter=conditional_statements)
+* [Chapter 4: Guessing Games with Random Numbers and Loops](http://programarcadegames.com/index.php?chapter=loops)
 * [Turtle programming in Python](https://www.tutorialspoint.com/turtle-programming-in-python)
 * [Socratica-klipp](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-): 10
 
