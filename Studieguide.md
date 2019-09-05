@@ -31,7 +31,7 @@ Jag kan använda modulen `turtle` för att rita ut saker på skärmen (jag kan t
 
 Jag kan skapa egna funktioner. Jag kan kalla på funktioner. Jag kan skicka in saker i funktioner och få ut saker från funktioner. Jag förstår varför funktioner är bra att ha.
 
-Jag kan skapa och använda listor. Jag kan skilja på listor och tuples. Jag förstår vad det betyder **att iterera**. Jag vet vad den inbyggda funktionen `len` gör för något.
+Jag kan skapa och använda listor. Jag kan skilja på listor och tuples. Jag förstår vad det betyder **att iterera**. Jag vet vad de inbyggda funktionerna `len` och `range` gör för något.
 
 - [ ] **Jag kan ovanstående**
 - [ ] **Jag har gjort [Quiz 7](http://programarcadegames.com/quiz/quiz.php?file=lists) och får alla rätt.**
