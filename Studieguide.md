@@ -29,7 +29,7 @@ Jag kan använda modulen `turtle` för att rita ut saker på skärmen (jag kan t
 * [Chapter 9: Functions](http://programarcadegames.com/index.php?chapter=functions)
 * [Socratica-klipp](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-): 12, 14, 16
 
-Jag kan skapa egna funktioner. Jag kan kalla på funktioner. Jag kan skicka in saker i funktioner och få ut saker från funktioner. Jag förstår varför funktioner är bra att ha.
+Jag kan skapa egna funktioner. Jag kan kalla på funktioner. Jag kan skicka in saker i funktioner och få ut saker från funktioner. Jag förstår varför funktioner är bra att ha. Jag vet hur jag använder `return`. Jag kan förklara skillnaden mellan att definiera en funktion och att kalla på en funktion. Jag kan skapa funktioner som tar noll, ett eller flera argument.
 
 Jag kan skapa och använda listor. Jag kan skilja på listor och tuples. Jag förstår vad det betyder **att iterera**. Jag vet vad de inbyggda funktionerna `len` och `range` gör för något.
 
