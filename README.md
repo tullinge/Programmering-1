@@ -4,7 +4,7 @@ I kursen kommer vårt primära språk vara Python och vi kommer använda Visual 
 
 ## Rekommenderade lärresurser
 ### Program Arcade Games With Python And Pygame
-Länk: http://programarcadegames.com/index.php
+Länk: [programarcadegames.com](http://programarcadegames.com/index.php)
 
 Viktigast är kapitel 1, 3, 4 som går igenom grunder. Men om ni följer hela denna kurssida så kommer ni kunna lära er att skapa spel. Den här sidan har även Quizzes som är ett jättebra sätt att kolla sin förståelse.
 
