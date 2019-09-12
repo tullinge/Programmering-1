@@ -35,3 +35,37 @@ Keep the following in mind when creating the program:
 * Sometimes it makes sense to re-use variables. Rather than having a different variable to hold the user's answer for each question, you could reuse the same one.
 
 * Use descriptive variable names. x is a terrible variable name. Instead use something like number_correct.
+
+## Example output
+Here's an example from my program. Please create your own original questions. I like to be entertained while I check these programs.
+```
+Quiz time!
+
+How many books are there in the Harry Potter series? 7
+Correct!
+
+What is 3*(2-1)? 3
+Correct!
+
+What is 3*2-1? 5
+Correct!
+
+Who sings Black Horse and the Cherry Tree?
+1. Kelly Clarkson
+2. K.T. Tunstall
+3. Hillary Duff
+4. Bon Jovi
+? 2
+Correct!
+
+Who is on the front of a one dollar bill
+1. George Washington
+2. Abraham Lincoln
+3. John Adams
+4. Thomas Jefferson
+? 2
+No.
+
+Congratulations, you got 4 answers right.
+That is a score of 80.0 percent.
+```
