@@ -37,7 +37,7 @@ Keep the following in mind when creating the program:
 * Use descriptive variable names. x is a terrible variable name. Instead use something like number_correct.
 
 ## Example output
-Here's an example from my program. Please create your own original questions. I like to be entertained while I check these programs.
+Please create your own original questions. I like to be entertained while I check these programs.
 ```
 Quiz time!
 
