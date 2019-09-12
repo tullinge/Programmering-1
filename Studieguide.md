@@ -29,7 +29,7 @@ Jag kan använda modulen `turtle` för att rita ut saker på skärmen (jag kan t
 * [Chapter 9: Functions](http://programarcadegames.com/index.php?chapter=functions)
 * [Socratica-klipp](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-): 12, 14, 16
 
-Jag kan skapa egna funktioner. Jag kan kalla på funktioner. Jag kan skicka in saker i funktioner och få ut saker från funktioner. Jag förstår varför funktioner är bra att ha. Jag vet hur jag använder `return`. Jag kan förklara skillnaden mellan att definiera en funktion och att kalla på en funktion. Jag kan skapa funktioner som tar noll, ett eller flera argument.
+Jag kan skapa egna funktioner. Jag kan kalla på funktioner. Jag kan skicka in saker i funktioner och få ut saker från funktioner. Jag förstår varför funktioner är bra att ha. Jag vet hur jag använder `return`. Jag kan förklara skillnaden mellan att definiera en funktion och att kalla på en funktion. Jag kan förklara vad som menas med *argument* i programmeringsvärlden. Jag kan skapa funktioner som tar noll, ett eller flera argument.
 
 Jag kan skapa och använda listor. Jag kan skilja på listor och tuples. Jag förstår vad det betyder **att iterera**. Jag vet vad de inbyggda funktionerna `len` och `range` gör för något.
 
@@ -44,4 +44,14 @@ Jag kan skapa och använda listor. Jag kan skilja på listor och tuples. Jag fö
 
 Gör vad ni vill. Utforska fritt. Skapa ett spel! Visa upp! Låt andra testa spelet!
 
-## Nivå 4 - TBD
+## Nivå 4 - Filhantering och fler datastrukturer
+* [Socratica-klipp](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-): 20, 29, 13, 15, 22
+
+Jag kan spara och öppna filer. Jag kan t.ex. göra ett enkelt spel med en high score-lista som sparas mellan körningarna. 
+Jag kan använda dictionaries. Jag kan använda sets. Jag kan förklara vad som skiljer dictionaries och sets från listor.
+
+Jag kan använda *list comprehensions*.
+
+- [ ] **Jag kan ovanstående**
+
+## Nivå 5 - TBD
