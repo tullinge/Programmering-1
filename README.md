@@ -28,9 +28,9 @@ Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer
 | 38 | Grunder i Python. Kodstil och kommentering | **Inlämning: Create-a-Quiz** |
 | 39 | | |
 | 40 | | |
-| 41 | Hur felsöker man? Debugging | |
+| 41 | | |
 | 42 | | **Prov Torsdag** |
-| 43 | | **Inlämning: Valfritt projekt** |
+| 43 | Hur felsöker man? Debugging | **Inlämning: Valfritt projekt** |
 | 44 | HÖSTLOV | |
 | 45 | Versionshantering. Git och Github | |
 | 46 | Tickets. Trello. | |
