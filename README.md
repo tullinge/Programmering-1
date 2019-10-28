@@ -26,16 +26,16 @@ Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer
 | 36 | Grunder i Python | **Läxförhör** |
 | 37 | Grunder i Python | |
 | 38 | Grunder i Python. Kodstil och kommentering | **Inlämning: Create-a-Quiz** |
-| 39 | Hur felsöker man? Debugging | **Läxförhör** |
+| 39 | | |
 | 40 | | |
-| 41 | Versionshantering. Git och Github | |
-| 42 | | **Prel. Prov** |
-| 43 | Parprogrammering på riktigt | |
+| 41 | | |
+| 42 | | **Prov Torsdag** |
+| 43 | Hur felsöker man? Debugging | **Inlämning: Valfritt projekt** |
 | 44 | HÖSTLOV | |
-| 45 | Agil utveckling. UX. | |
+| 45 | Versionshantering. Git och Github | |
 | 46 | Tickets. Trello. | |
 | 47 | Problemlösning, pseudokod | |
-| 48 |  | |
+| 48 | Agil utveckling. UX. | |
 | 49 | | **Prel. Prov** |
 | 50 |  | |
 | 51 |  | |
