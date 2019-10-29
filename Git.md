@@ -53,4 +53,4 @@ För nya projekt kan du följa mallen ovan, dvs skapa ett repository på Github 
 7. Skriv `git push -u origin master`
 
 ## Löpande arbete med Git
-<det kommer>
+Kommer..
