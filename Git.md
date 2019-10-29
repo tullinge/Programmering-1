@@ -12,19 +12,18 @@ En hink med kod på Github kallas för ett **repository** ("repo"). Lär dig det
 Obs: Det är fullt möjligt att använda Git utan att använda Github.
 
 ## Kom igång
-1. Skapa ett konto på Github
-2. Ladda ner och installera `Git for Windows`
-   1. Inställningar...
-3. Öppna ett terminalfönster, på Windows `Powershell`.
+1. Gå in på [git-scm.com/downloads](https://git-scm.com/downloads) och ladda hem Git
+2. Öppna ett terminalfönster (Powershell)
    1. Skriv `git config --global user.name "Your Name"`
    2. Skriv `git config --global user.email you@example.com`
+3. Gå in på [github.com](https://github.com) och registera ett konto
 
 Woho! Klappa dig själv på axeln. Nu är du redo för... ditt första repository!
 
 ## Ditt första repository
-1. Gå in på Github
+1. Gå in på [github.com](https://github.com)
 2. Skapa ett nytt repository som heter `hello-world`
-3. I ett Powershell-fönster, navigera till en mapp där du har dina projekt. Bra kommandon är `pwd`, `ls` och `cd`.
+3. Öppna ett terminalfönster (Powershell) och navigera till en mapp där du har dina projekt.
 4. Skriv `git clone https://github.com/<ditt namn här>/hello-world.git`
 5. Gå in i mappen genom att skriva `cd hello-world`
 6. Öppna Visual Studio Code genom att skriva `code .` Punkten betyder att du ska öppna programmet där du står, dvs i mappen hello-world.
@@ -34,7 +33,7 @@ Woho! Klappa dig själv på axeln. Nu är du redo för... ditt första repositor
 10. Skriv `git status` igen för att se skillnaden
 11. Skriv nu `git commit -m "My first commit"` för att definitivt bekräfta alla ändringar. En ny commit / stämpel skapas.
 12. Skriv `git push` för att knuffa upp koden till Github
-13. Gå in på `https://github.com/<ditt namn>/hello-world` och kolla att koden ligger där
+13. Gå in på `github.com/<ditt namn>/hello-world` och kolla att koden ligger där
 
 Woho! Klappa dig själv på axeln. Du har tagit ett viktigt steg mot att bli en kompetent utvecklare.
 
