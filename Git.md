@@ -22,7 +22,7 @@ Woho! Klappa dig själv på axeln. Nu är du redo för... ditt första repositor
 
 ## Ditt första repository
 1. Gå in på [github.com](https://github.com)
-2. Skapa ett nytt repository som heter `hello-world`
+2. Skapa ett nytt repository som heter `hello-world`. Välj `public`.
 3. Öppna ett terminalfönster (Powershell) och navigera till en mapp där du har dina projekt.
 4. Skriv `git clone https://github.com/<ditt namn här>/hello-world.git`
 5. Gå in i mappen genom att skriva `cd hello-world`
@@ -43,7 +43,7 @@ Woho! Klappa dig själv på axeln. Du har tagit ett viktigt steg mot att bli en 
 För nya projekt kan du följa mallen ovan, dvs skapa ett repository på Github och använd sedan `git clone` för att få en kopia på din dator som du kan arbeta utifrån.
 
 ### B: Du har redan kod på din dator som du vill skapa ett repository för
-1. Gå in på github.com och skapa ett repository med samma namn som ditt projekt/mapp på datorn
+1. Gå in på [github.com](https://github.com) och skapa ett repository med samma namn som ditt projekt/mapp på datorn. Välj `public`.
 2. Navigera till mappen i Powershell lokalt på din dator
 3. Skriv `git init`
 4. Skriv `git remote add origin https://github.com/<ditt användarnamn>/<ditt repo-namn>.git`
