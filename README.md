@@ -8,7 +8,7 @@ Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer
 | Vecka  | Fokus | Övrigt |
 | ------------- | ------------- | ------------- |
 | 34 | Hello world! | |
-| 35 | Grunder i Python (fram til höstlovet) | |
+| 35 | Grunder i Python (fram till höstlovet) | |
 | 36 | | **Läxförhör** |
 | 37 | | |
 | 38 | | **Inlämning: Create-a-Quiz** |
