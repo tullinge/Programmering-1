@@ -22,22 +22,31 @@ Ni kommer arbeta med mindre eller större uppgifter löpande. Därutöver kommer
 | Vecka  | Fokus | Övrigt |
 | ------------- | ------------- | ------------- |
 | 34 | Hello world! | |
-| 35 | Grunder i Python | |
-| 36 | Grunder i Python | **Läxförhör** |
-| 37 | Grunder i Python | |
-| 38 | Grunder i Python. Kodstil och kommentering | **Inlämning: Create-a-Quiz** |
+| 35 | | |
+| 36 | | **Läxförhör** |
+| 37 | | |
+| 38 | | **Inlämning: Create-a-Quiz** |
 | 39 | | |
 | 40 | | |
 | 41 | | |
 | 42 | | **Prov Torsdag** |
-| 43 | Hur felsöker man? Debugging | **Inlämning: Valfritt projekt** |
+| 43 | | |
 | 44 | HÖSTLOV | |
-| 45 | Versionshantering. Git och Github | |
-| 46 | Tickets. Trello. | |
-| 47 | Problemlösning, pseudokod | |
-| 48 | Agil utveckling. UX. | |
-| 49 | | **Prel. Prov** |
-| 50 |  | |
-| 51 |  | |
+| 45 | Versionshantering. Git och Github | **Inlämning: Valfritt projekt** |
+| 46 | | |
+| 47 | Kodstil | |
+| 48 | Debugging | |
+| 49 | | |
+| 50 | | |
+| 51 | | |
 
-(TODO: Fyll på med vårens veckor.)
+Fram till jullovet:
+* Mindre hemuppgifter där ni får utforska olika Python-moduler samt träna på att använda Git
+
+Till våren:
+* Hur angriper man ett projekt? Bryta ner i tickets
+* Använda Kanban, t.ex. Trello
+* Problemlösning, pseudokod
+* Agil utveckling och UX
+* Frontend vs backend
+* API
