@@ -16,7 +16,8 @@ Obs: Det är fullt möjligt att använda Git utan att använda Github.
 2. Ladda ner och installera `Git for Windows`
    1. Inställningar...
 3. Öppna ett terminalfönster, på Windows `Powershell`.
-   1. Skriv `git config -- ..`
+   1. Skriv `git config --global user.name "Your Name"`
+   2. Skriv `git config --global user.email you@example.com`
 
 Woho! Klappa dig själv på axeln. Nu är du redo för... ditt första repository!
 
@@ -29,11 +30,11 @@ Woho! Klappa dig själv på axeln. Nu är du redo för... ditt första repositor
 6. Öppna Visual Studio Code genom att skriva `code .` Punkten betyder att du ska öppna programmet där du står, dvs i mappen hello-world.
 7. Skapa en ny fil som heter `hello-world.py` och fyll det med `print(̈́"Hello, world")`. Spara.
 8. Skriv `git status`. Detta kommando visar status. Det är ett helt säkert kommando som inte kan förstöra något.
-9. Skriv `git add .` för att fånga upp alla ändringar (i det här fallet bara en ny fil)
+9. Skriv `git add .` för att fånga upp och lägga till alla ändringar i mappen (i det här fallet bara en ny fil)
 10. Skriv `git status` igen för att se skillnaden
-11. Skriv nu `git commit -m "My first commit"` för att definitivt lägga till filändringen. En ny commit / stämpel skapas.
+11. Skriv nu `git commit -m "My first commit"` för att definitivt bekräfta alla ändringar. En ny commit / stämpel skapas.
 12. Skriv `git push` för att knuffa upp koden till Github
-13. Gå in på `https://github.com/<ditt namn>/hello-world` och bekräfta att koden ligger där
+13. Gå in på `https://github.com/<ditt namn>/hello-world` och kolla att koden ligger där
 
 Woho! Klappa dig själv på axeln. Du har tagit ett viktigt steg mot att bli en kompetent utvecklare.
 
