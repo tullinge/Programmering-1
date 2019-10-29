@@ -13,10 +13,11 @@ Obs: Det är fullt möjligt att använda Git utan att använda Github.
 
 ## Kom igång
 1. Gå in på [git-scm.com/downloads](https://git-scm.com/downloads) och ladda hem Git
-2. Öppna ett terminalfönster (Powershell)
+2. Installera Git. Välj Visual Studio Code som "default editor"
+3. Öppna ett terminalfönster (Powershell)
    1. Skriv `git config --global user.name "Your Name"`
    2. Skriv `git config --global user.email you@example.com`
-3. Gå in på [github.com](https://github.com) och registera ett konto
+4. Gå in på [github.com](https://github.com) och registera ett konto
 
 Woho! Klappa dig själv på axeln. Nu är du redo för... ditt första repository!
 
