@@ -52,4 +52,5 @@ För nya projekt kan du följa mallen ovan, dvs skapa ett repository på Github 
 6. Skriv `git commit -m "Initial commit"`
 7. Skriv `git push -u origin master`
 
-Arbeta därefter på. Varje gång du vill spara skriver du `git add .` och därefter `git commit -m "Ett meddelande som beskriver ändringen"`. Därefter `git push`.
+## Löpande arbete med Git
+<det kommer>
